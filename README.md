@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm happy to join this community! Let's start together!!
+
 <!--
 **daisuke1515/daisuke1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
